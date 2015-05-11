@@ -9,7 +9,7 @@
     <?php echo $text_from; ?>
 	<br>
     <select name="source">
-          <option selected="selected" value="EUR">Euro - EUR</option>
+          <option selected="selected" value="USD">United States  - USD</option>
           <option value="USD">United States  - USD</option>
           <option value="GBP">United Kingdom  - GBP</option>
           <option value="CAD">Canada Dollars - CAD</option>
@@ -89,8 +89,9 @@
     <?php echo $text_to; ?>
 	<br>
     <select name="target">
-          <option value="EUR">Euro - EUR</option>
-          <option selected="selected" value="USD">United States  - USD</option>
+          <option selected="selected" value="JPY">Japan Yen - JPY</option>
+		  <option value="EUR">Euro - EUR</option>
+          <option value="USD">United States  - USD</option>
           <option value="GBP">United Kingdom  - GBP</option>
           <option value="CAD">Canada Dollars - CAD</option>
           <option value="AUD">Australia  - AUD</option>
