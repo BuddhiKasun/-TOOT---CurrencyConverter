@@ -4,5 +4,5 @@ Here, I modified Opencart extention "TOOT - CurrencyConverter"
 
 Install Instructions
 
-* Same as Other OpenCart extentions just copy these folders to your server using your FTP.
+* Same as other OpenCart extentions, just copy these folders to your server using your FTP.
 * It won't replace any of your existing files so don't worry.
