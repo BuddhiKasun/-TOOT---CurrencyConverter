@@ -1,8 +1,7 @@
 Modified-CurrencyConverter for OpenCart
 
-Here, I modified Opencart extention "TOOT - CurrencyConverter"
+Modified this currency converter extention for OpenCart.
 
-Install Instructions
-
-* Same as other OpenCart extentions, just copy these folders to your server using your FTP.
+Install Instructions,
+* Same as other OpenCart extentions.
 * It won't replace any of your existing files so don't worry.
